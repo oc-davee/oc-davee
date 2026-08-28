@@ -1,3 +1,19 @@
+<h1>Hi, I'm Dave, an IT Professional☺</h1>
+👨‍💻 Information Technology Projects:
+
+<h2>IT/Cloud</h2>
+Configuring On-premises Active Directory within Azure VMs
+Network Security Groups (NSGs) and Inspecting Network Protocols
+
+<h2>AI</h2>
+Career digital twin (Ai Agent) /twin
+
+<h2>Cybersecurity</h2>
+/malware-behavior-analyzer
+
+
+<h2>🤳Connect with me:</h2> [LinkedIn — Dave Duncan](https://www.linkedin.com/in/dave-duncan-4a8429297/)
+
 <p align="center"> <img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/> </p> <h1>On-premises Active Directory Deployed in the Cloud (Azure)</h1> This tutorial outlines the implementation of on-premises Active Directory within Azure Virtual Machines.<br /> <h2>Environments and Technologies Used</h2>
 Microsoft Azure (Virtual Machines/Compute)
 Remote Desktop<img width="483" height="498" alt="Screenshot 2026-08-27 215730" src="https://github.com/user-attachments/assets/17f510d9-3d17-49e0-8a6e-fe4591e6673e" />
