@@ -1,4 +1,5 @@
 <h1>Hi, I'm Dave, an IT Professional☺</h1>
+Bio: SOC and IAM candidate | SIEM, detection, identity, DLP | Security+ | Northern VA.
 👨‍💻 Information Technology Projects:
 
 <h2>IT/Cloud</h2>
