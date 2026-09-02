@@ -1,6 +1,6 @@
 <h1>Hi, I'm Dave, an IT Professional☺</h1>
 Bio: SOC and IAM candidate | SIEM, detection, identity, DLP | Security+ | Northern VA.
-👨‍💻 Information Technology Projects:
+<h1>👨‍💻 Information Technology Projects:</h1>
 
 <h2>IT/Cloud</h2>
 Configuring On-premises Active Directory within Azure VMs
